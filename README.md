@@ -1,2 +1,4 @@
 # odin-recipes
-A test project to learn how to build an HTML page
+This is test project in the Odin Project curriculum.
+
+The goal of this project is to build a simple recipe page in HTML.
